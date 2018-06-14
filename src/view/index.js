@@ -1,7 +1,11 @@
-import Login from './Login'
-import Index from './Index'
+import Login from './Login.vue'
+import Home from './Home.vue'
+import Main from './Main.vue'
+import Error_404 from './Error_404.vue'
 
 export default {
     Login: Login,
-    Index: Index
+    Home: Home,
+    Main: Main,
+    Error_404: Error_404
 }
