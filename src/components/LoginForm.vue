@@ -62,7 +62,7 @@ export default {
       form: {
         userName: '18592022530',
         password: 'sam',
-        code: '123'
+        code: '1234'
       }
     }
   },
